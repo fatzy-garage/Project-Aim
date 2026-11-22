@@ -1,0 +1,10 @@
+{
+  "name": "Mobile Aim Lab",
+  "short_name": "Aim Lab",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "icons": []
+}
